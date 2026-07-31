@@ -41,7 +41,7 @@ The most interactive Core Java learning platform on the web. Master every concep
 | 7 | Java 8 Features | ✅ |
 | 8 | Multithreading | ✅ |
 | 9 | Collections Internals | ✅ |
-| 10 | Design Patterns | 🔜 |
+| 10 | Design Patterns | ✅ |
 | 11 | Java I/O & NIO | 🔜 |
 | 12 | Annotations & Reflection | 🔜 |
 
