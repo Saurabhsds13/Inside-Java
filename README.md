@@ -32,7 +32,7 @@ The most interactive Core Java learning platform on the web. Master every concep
 | 2 | String Handling | ✅ |
 | 3 | Exception Handling | ✅ |
 | 4 | Collections Framework | ✅ |
-| 5 | Generics & Type Erasure | 🔜 |
+| 5 | Generics & Type Erasure | ✅ |
 | 6 | static, final, this, super | 🔜 |
 
 ### Intermediate (Product Company Level)
