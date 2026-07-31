@@ -38,7 +38,7 @@ The most interactive Core Java learning platform on the web. Master every concep
 ### Intermediate (Product Company Level)
 | # | Topic | Status |
 |---|-------|--------|
-| 7 | Java 8 Features | 🔜 |
+| 7 | Java 8 Features | ✅ |
 | 8 | Multithreading | 🔜 |
 | 9 | Collections Internals | 🔜 |
 | 10 | Design Patterns | 🔜 |
