@@ -20,7 +20,7 @@ export default function Footer() {
           <div className="md:col-span-1">
             <Link href="/" className="flex items-center gap-2.5 mb-4 group">
               <div className="relative w-8 h-8">
-                <div className="absolute inset-0 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg opacity-80" />
+                <div className="absolute inset-0 bg-gradient-to-br from-orange-500 to-amber-500 rounded-lg opacity-80" />
                 <div className="absolute inset-0 flex items-center justify-center">
                   <Coffee className="w-4 h-4 text-white" />
                 </div>

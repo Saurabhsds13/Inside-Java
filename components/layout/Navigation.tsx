@@ -55,11 +55,11 @@ export default function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2.5 group">
             <div className="relative w-8 h-8">
-              <div className="absolute inset-0 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg opacity-80 group-hover:opacity-100 transition-opacity" />
+              <div className="absolute inset-0 bg-gradient-to-br from-orange-500 to-amber-500 rounded-lg opacity-80 group-hover:opacity-100 transition-opacity" />
               <div className="absolute inset-0 flex items-center justify-center">
                 <Coffee className="w-4 h-4 text-white" />
               </div>
-              <div className="absolute -inset-0.5 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg blur opacity-30 group-hover:opacity-50 transition-opacity" />
+              <div className="absolute -inset-0.5 bg-gradient-to-br from-orange-500 to-amber-500 rounded-lg blur opacity-30 group-hover:opacity-50 transition-opacity" />
             </div>
             <span className="font-bold text-[15px] tracking-tight">
               <span className="text-white">Inside</span>
@@ -148,7 +148,7 @@ export default function Navigation() {
             </Link>
             <Link
               href="/interview"
-              className="px-4 py-1.5 text-sm font-medium rounded-lg bg-gradient-to-r from-blue-600 to-purple-600 text-white hover:from-blue-500 hover:to-purple-500 transition-all duration-200 shadow-lg shadow-blue-500/20"
+              className="px-4 py-1.5 text-sm font-medium rounded-lg bg-gradient-to-r from-orange-600 to-amber-500 text-white hover:from-orange-500 hover:to-amber-400 transition-all duration-200 shadow-lg shadow-orange-500/20"
             >
               Interview Prep
             </Link>
@@ -194,7 +194,7 @@ export default function Navigation() {
               <div className="pt-2 pb-1">
                 <Link
                   href="/interview"
-                  className="flex items-center justify-center w-full px-4 py-2.5 text-sm font-medium rounded-lg bg-gradient-to-r from-blue-600 to-purple-600 text-white"
+                  className="flex items-center justify-center w-full px-4 py-2.5 text-sm font-medium rounded-lg bg-gradient-to-r from-orange-600 to-amber-500 text-white"
                 >
                   Interview Prep
                 </Link>

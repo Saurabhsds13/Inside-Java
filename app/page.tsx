@@ -131,7 +131,7 @@ export default function HomePage() {
             >
               <Link
                 href="/oops"
-                className="px-6 py-3 text-sm font-medium rounded-lg bg-gradient-to-r from-blue-600 to-purple-600 text-white hover:from-blue-500 hover:to-purple-500 transition-all duration-200 shadow-lg shadow-blue-500/20 flex items-center gap-2"
+                className="px-6 py-3 text-sm font-medium rounded-lg bg-gradient-to-r from-orange-600 to-amber-500 text-white hover:from-orange-500 hover:to-amber-400 transition-all duration-200 shadow-lg shadow-orange-500/20 flex items-center gap-2"
               >
                 Start Learning
                 <ArrowRight className="w-4 h-4" />
