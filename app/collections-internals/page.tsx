@@ -441,7 +441,7 @@ const constants = [
   { name: 'MAXIMUM_CAPACITY', value: '1 << 30', why: 'Largest power of two that fits a positive int' },
 ];
 
-const interviewQuestions = [
+const interviewQuestions: { q: string; a: string; difficulty: 'Beginner' | 'Intermediate' | 'Advanced' }[] = [
   {
     q: 'How does HashMap work internally?',
     a: 'It keeps a Node[] array of buckets. On put, the key\'s hashCode is spread with h ^ (h >>> 16) and the bucket index is computed as hash & (capacity - 1). If the bucket is empty the node goes straight in. If not, it walks the chain comparing hash first then equals — a match replaces the value, otherwise the node is appended. When a chain reaches 8 nodes and the table is at least 64 long, that bin becomes a red-black tree. When size exceeds capacity × 0.75, the table doubles and every bin is redistributed.',
