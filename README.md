@@ -42,13 +42,13 @@ The most interactive Core Java learning platform on the web. Master every concep
 | 8 | Multithreading | ✅ |
 | 9 | Collections Internals | ✅ |
 | 10 | Design Patterns | ✅ |
-| 11 | Java I/O & NIO | 🔜 |
-| 12 | Annotations & Reflection | 🔜 |
+| 11 | Java I/O & NIO | ✅ |
+| 12 | Annotations & Reflection | ✅ |
 
 ### Advanced (MAANG Level)
 | # | Topic | Status |
 |---|-------|--------|
-| 13 | Java 17-21 Features | 🔜 |
+| 13 | Java 17-21 Features | ✅ |
 | 14 | Concurrency Deep Dive | 🔜 |
 | 15 | Serialization | 🔜 |
 | 16 | Memory Management | 🔜 |
