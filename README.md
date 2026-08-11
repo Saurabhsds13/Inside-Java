@@ -50,7 +50,7 @@ The most interactive Core Java learning platform on the web. Master every concep
 |---|-------|--------|
 | 13 | Java 17-21 Features | ✅ |
 | 14 | Concurrency Deep Dive | ✅ |
-| 15 | Serialization | 🔜 |
+| 15 | Serialization | ✅ |
 | 16 | Memory Management | 🔜 |
 | 17 | Java Security | 🔜 |
 | 18 | Testing & Best Practices | 🔜 |
